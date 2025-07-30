@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "creational/singleton",
+    "creational/factory",
+    "creational/builder",
+    "structural/adapter",
+    "structural/decorator",
+    "behavioral/observer",
+    "behavioral/strategy"
+]
+resolver = "2"
